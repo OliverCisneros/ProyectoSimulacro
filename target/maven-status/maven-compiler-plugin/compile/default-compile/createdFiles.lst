@@ -1,0 +1,9 @@
+com\worknest\proyectosimulacro\controladores\ControladorProducto.class
+com\worknest\proyectosimulacro\entidad\Categoria.class
+com\worknest\proyectosimulacro\configuracion\CorsConfig$1.class
+com\worknest\proyectosimulacro\repositorio\RepositorioCategoria.class
+com\worknest\proyectosimulacro\repositorio\RepositorioProducto.class
+com\worknest\proyectosimulacro\entidad\Producto.class
+com\worknest\proyectosimulacro\ProyectoSimulacroApplication.class
+com\worknest\proyectosimulacro\configuracion\CorsConfig.class
+com\worknest\proyectosimulacro\controladores\ControladorCategoria.class
